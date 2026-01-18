@@ -1,0 +1,11 @@
+.config/
+*.log
+VisualGML/
+
+# GameMaker temporary/cache folders
+/cache/
+/export/
+/options/main/inherited/
+
+# User specific settings
+local_settings.json
