@@ -1,0 +1,26 @@
+{
+  "$GMSound":"v2",
+  "%Name":"MC_bump_to_other_objects",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "channelFormat":0,
+  "compression":0,
+  "compressionQuality":4,
+  "conversionMode":0,
+  "duration":0.42258504,
+  "exportDir":"",
+  "name":"MC_bump_to_other_objects",
+  "parent":{
+    "name":"sound",
+    "path":"folders/sound.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"MC_bump_to_other_objects.mp3",
+  "volume":0.59,
+}

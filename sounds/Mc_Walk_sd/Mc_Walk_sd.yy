@@ -1,0 +1,26 @@
+{
+  "$GMSound":"v2",
+  "%Name":"Mc_Walk_sd",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "channelFormat":0,
+  "compression":0,
+  "compressionQuality":4,
+  "conversionMode":0,
+  "duration":0.1440136,
+  "exportDir":"",
+  "name":"Mc_Walk_sd",
+  "parent":{
+    "name":"sound",
+    "path":"folders/sound.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"Mc_Walk_sd.mp3",
+  "volume":0.49,
+}

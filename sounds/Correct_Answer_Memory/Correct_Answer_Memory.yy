@@ -1,0 +1,26 @@
+{
+  "$GMSound":"v2",
+  "%Name":"Correct_Answer_Memory",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "channelFormat":0,
+  "compression":0,
+  "compressionQuality":4,
+  "conversionMode":0,
+  "duration":0.78931975,
+  "exportDir":"",
+  "name":"Correct_Answer_Memory",
+  "parent":{
+    "name":"sound",
+    "path":"folders/sound.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"Correct_Answer_Memory.mp3",
+  "volume":1.0,
+}
