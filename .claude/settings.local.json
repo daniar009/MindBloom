@@ -1,0 +1,34 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(pip install:*)",
+      "Bash(python -c \"import speech_recognition as sr; m = sr.Microphone\\(\\); print\\('Mic found:', m.device_index\\); print\\('Available mics:', sr.Microphone.list_microphone_names\\(\\)[:3]\\)\")",
+      "WebSearch",
+      "WebFetch(domain:pmc.ncbi.nlm.nih.gov)",
+      "WebFetch(domain:www.nature.com)",
+      "Bash(where pdftoppm *)",
+      "Bash(where pdftotext *)",
+      "Bash(python -c \"import sys; print\\(sys.version\\)\")",
+      "Bash(python -c \"import pypdf; print\\(pypdf.__version__\\)\")",
+      "Bash(python build_diploma_v2.py)",
+      "Bash(python -c \"from docx import Document; d=Document\\('MindBloom_Diploma_v2.docx'\\); print\\('paragraphs:',len\\(d.paragraphs\\)\\); print\\('tables:',len\\(d.tables\\)\\); import os; print\\('size:',os.path.getsize\\('MindBloom_Diploma_v2.docx'\\)\\)\")",
+      "Bash(python expand_diploma.py)",
+      "Bash(python expand_diploma2.py)",
+      "Bash(python -c ' *)",
+      "Bash(python expand_diploma3.py)",
+      "Bash(python expand_diploma4.py)",
+      "Bash(pip show *)",
+      "Bash(pyinstaller --version)",
+      "Bash(python -c \"import pygame; print\\('pygame', pygame.version.ver\\)\")",
+      "Bash(python -c \"import py_compile; py_compile.compile\\('coinflip.py'\\); print\\('syntax ok'\\)\")",
+      "Bash(pyinstaller --onefile --noconsole --name \"CoinOfFate\" coinflip.py)",
+      "Bash(python add_expert.py)",
+      "Bash(python build_diploma_v4.py)",
+      "Bash(python expand_v4.py)",
+      "Bash(python expand_v4_2.py)",
+      "Bash(python expand_v4_3.py)",
+      "Bash(python expand_v4_4.py)",
+      "Bash(python expand_v4_5.py)"
+    ]
+  }
+}
